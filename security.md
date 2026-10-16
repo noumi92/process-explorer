@@ -146,3 +146,5 @@ Yes — download again and repeat the steps.
 | Instructions | [Instructions](#download) |
 
 *process-explorer · Updated 2026-10-16 · Shared under the MIT License*
+
+<!-- rev 2026-10-16 -->
